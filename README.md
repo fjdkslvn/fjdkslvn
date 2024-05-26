@@ -1,9 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:F27BBD,30:C65BCF,60:874CCC,100:7071E8&height=250&section=header&text=FJDKSLVN&fontSize=60&animation=twinkling&fontColor=ffffff&fontAlign=78&fontAlignY=25)
 
+![fjdkslvn's GitHub stats](https://github-readme-stats.vercel.app/api?username=fjdkslvn&show_icons=true&theme=radical)
+<br/><br/><br/>
 
-
-## 📒 Blog
-https://fjdkslvn.tistory.com/
+## 📒 Website
+- 기술 블로그 : https://fjdkslvn.tistory.com <br/>
+- quickJS (개발중) : https://quickjs.vercel.app
 <br/><br/><br/>
 
 ## 🔨 Familiar
@@ -26,9 +28,9 @@ https://fjdkslvn.tistory.com/
 ![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 <br/><br/>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:F27BBD,30:C65BCF,60:874CCC,100:7071E8)
