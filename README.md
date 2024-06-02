@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:F27BBD,30:C65BCF,60:874CCC,100:7071E8&height=250&section=header&text=FJDKSLVN&fontSize=60&animation=twinkling&fontColor=ffffff&fontAlign=78&fontAlignY=25)
-
-![fjdkslvn's GitHub stats](https://github-readme-stats.vercel.app/api?username=fjdkslvn&show_icons=true&theme=radical)
-<br/><br/><br/>
+<br/><br/>
 
 ## 📒 Website
 - 기술 블로그 : https://fjdkslvn.tistory.com <br/>
