@@ -3,11 +3,12 @@
 
 ## 📒 Website
 - 기술 블로그 : https://fjdkslvn.tistory.com <br/>
-- quickJS (개발중) : https://quickjs.vercel.app
-- 꼬들게임 (개발중) : https://fortundle.vercel.app
+- 소마(쇼핑몰 운영 서비스) : [소마 바로가기](https://soma.run/)
+- quickJS(JS 실험실) : [quickJS 바로가기](https://quickjs.vercel.app)
 <br/><br/><br/>
 
 ## 🔨 Familiar
+![svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=fff&style=for-the-badge)
 ![next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
