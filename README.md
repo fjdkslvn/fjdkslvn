@@ -2,9 +2,14 @@
 <br/><br/>
 
 ## 📒 Website
-- 기술 블로그 : https://fjdkslvn.tistory.com <br/>
-- 소마(쇼핑몰 운영 서비스) : [소마 바로가기](https://soma.run/)
-- quickJS(JS 실험실) : [quickJS 바로가기](https://quickjs.vercel.app)
+- 기술 블로그 : [블로그 바로가기](https://fjdkslvn.tistory.com)
+- 소마(쇼핑몰 운영 서비스) : [사이트 바로가기](https://soma.run/)
+- quickJS(JS 실험실) : [사이트 바로가기](https://quickjs.vercel.app)
+<br/><br/><br/>
+
+## 💤 Past Project
+- 숙소 예약 플랫폼(자바/스프링 개발자 양성과정 파이널 프로젝트) : [최종 보고서](https://docs.google.com/presentation/d/102QHCskUjiRicTmiHBZCw-aTlxei--aOmpTzvSPjSlw/edit?usp=sharing) / [github](https://github.com/fjdkslvn/tap)
+- 작은 학습 도우미(졸업 작품) : [시연 영상](https://youtu.be/Uyej8ULtoHk?si=XFKxnzKfNrIv8mnn) / [github](https://github.com/hjs2632/CAP_Together)
 <br/><br/><br/>
 
 ## 🔨 Familiar
@@ -13,6 +18,7 @@
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![mui](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
@@ -24,7 +30,6 @@
 ## 🔨 I've used before
 ![redex](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
